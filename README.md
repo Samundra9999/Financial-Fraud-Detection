@@ -27,7 +27,7 @@
 ## Installation
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/FinanceGuard-FraudDetection.git
+git clone https://github.com/Samundra9999/FinanceGuard-FraudDetection.git
 ```
 2. Install required packages:
 

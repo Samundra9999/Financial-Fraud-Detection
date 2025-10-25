@@ -20,7 +20,7 @@
 ## Explainability
 - Uses **SHAP** to highlight key features influencing predictions:  
   - `amount`, `hour_of_day`, `day_of_week`, `changeOrig`, `changeDest`
-![SHAP Summary](img/shap_summary.png)
+![SHAP Summary](shap_summary.png)
 
 ---
 
